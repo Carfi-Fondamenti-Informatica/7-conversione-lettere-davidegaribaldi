@@ -1,5 +1,5 @@
 #include <iostream>
-#include "controllo.h"
+#include "lib.h"
 using namespace std;
 int main() {
   char a;
